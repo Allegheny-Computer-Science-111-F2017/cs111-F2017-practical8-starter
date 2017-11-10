@@ -87,10 +87,10 @@ guides will help you to understand how to use both [GitHub](http://github.com) a
 [GitHub Classroom](https://classroom.github.com/).
 
 To do well on this assignment, you should also review Chapters 1 through 4.
-Finally, please read Sections 5.1 through 5.8 to learn more about conditional
-logic and iteration constructs. Please see the course instructor or one of the
-teaching assistants or tutors if you have questions about any of these reading
-assignments.
+Finally, please read Sections 6.1 through 6.4 to learn more about iteration
+constructs and, specifically, the `for` loop. Please see the course instructor
+or one of the teaching assistants or tutors if you have questions about any of
+these reading assignments.
 
 ## Commands
 
