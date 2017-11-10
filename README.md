@@ -23,17 +23,12 @@ PROBLEMS?
 # cs111-F2017-practical8-solution
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Practical 8 in Computer Science 111.
-
-<!---
-
- Since the Travis builds for this repository will initially fail (as evidenced by
- a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
- programmer is responsible for completing all of the steps needed to satisfy the
- requirements for the assignment, thus causing a &#x2714; to instead appear in
- the commit logs.
-
---->
+repository contains the solution for Practical 8 in Computer Science 111. Since
+the Travis builds for this repository will initially fail (as evidenced by a
+red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
+programmer is responsible for completing all of the steps needed to satisfy the
+requirements for the assignment, thus causing a &#x2714; to instead appear in
+the commit logs.
 
 ## Introduction
 
@@ -59,6 +54,10 @@ implementation:
   * Create and call the `displaySymbolInTriangle` method to produce the desired output
   * Create and call the `displaySymbolInDoubleTriangle` method to produce the
     desired output
+
+Please note that course instructor will also check to ensurer that your program
+produces the correct output. Note that, when you receive the source code for
+this assignment, it will not compile correctly due to a missing method.
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build
