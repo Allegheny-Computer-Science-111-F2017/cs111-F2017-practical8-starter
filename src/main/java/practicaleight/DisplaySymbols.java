@@ -23,11 +23,9 @@ public class DisplaySymbols {
   /**
    * Display the symbol in a double triangle.
    **/
-  public static void displaySymbolInDoubleTriangle(int maximumRows, String symbol) {
-    // TODO: Add a full implementation of this method, leveraging the
-    // source code from the displaySymbolInTriangle method and your knowledge
-    // of iteration constructs, especially the for loop
-  }
+  // TODO: Add a full implementation of this method, leveraging the
+  // source code from the displaySymbolInTriangle method and your knowledge
+  // of iteration constructs, especially the for loop
 
   /**
    * Perform user input and display the symbols correctly. Note that this
